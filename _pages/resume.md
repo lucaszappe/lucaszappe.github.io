@@ -13,46 +13,31 @@ PDF version [here](http://lucaszappe.github.io/files/resume.pdf).
 
 Skills
 ======
-Proficient in **Excel**, **Google Workspace**, **SQL**, and **R**. Basic understanding of **Python** and **Tableau**. Strong **analytical** and **problem-solving** skills. **Communicative** and **team-oriented** professional.
-
-Education
-======
-**Coursera** &mdash; Online &mdash; Mar 2024
-
-*Google Data Analytics Professional Certificate*
-
-**Frankfurt University of Applied Sciences** &mdash; Frankfurt, Germany &mdash; Aug 2013 - Jul 2014
-
-*Exchange Program in Telecommunications Engineering*
-
-**Universidade Federal do Rio Grande do Sul** &mdash; Porto Alegre, Brazil &mdash; Mar 2010 - Sep 2016
-
-*BSc in Electrical Engineering*
+Proficient in **Excel**, **Google Workspace**, **SQL**, **Python**, **R**, **VBA** and **Git**. Strong **analytical** and **problem-solving** skills. **Communicative** and **team-oriented** professional.
 
 Experience
 ======
-**Freelancer – Diving Instructor**
+**Edge Engenharia &mdash; Software Developer**
 
-Worldwide – Sep 2018 - Feb 2024
+Remote &mdash; Oct 2024 - Present
 
-- Handled various requests from divers, frequently devising solutions to problems on-the-spot and with limited resources, while securing the well-being of individuals and smooth operation of trips.
+- Contributes to the development of a nationwide program for Petrobras’ Research, Development and Innovation Center (Cenpes), collaborating with multidisciplinary experts to align the solution with functional requirements and the project’s strategic goals.
 
-- Catered to a diverse clientele with varying needs across global dive centers, demonstrating flexibility and adaptability in various situations and scenarios, ensuring expectations were met.
+- Designs customized VBA solutions for process automation, data analysis, and Excel interfaces, participating in all stages of development — from requirements gathering to ongoing maintenance — with a focus on performance, usability, and user-driven needs.
 
-- Attended to customers from multiple cultural backgrounds, proficiently communicating in different languages and styles, fostering personal connections and client satisfaction.
+**Freelancer &mdash; Diving Instructor**
 
-**Água Viva Mergulho – Diving Instructor**
+Brazil, Mexico, Thailand and Indonesia &mdash; Dec 2016 - Sep 2024
 
-Florianópolis, Brazil – Dec 2016 - Jul 2018
+- Catered to people from multiple cultural backgrounds across dive centers around the world, proficiently communicating in different languages and styles. Demonstrated flexibility and adaptability in various contexts, aiming to meet expectations and ensure everyone's satisfaction.
 
-- Established clear and effective communication to ensure proper learning for students across a broad spectrum of skill levels. Collaborated with a team of instructors to teach courses from beginner to professional levels.
-- Led “Discover Scuba” programs, routinely simplifying and explaining complex concepts for novice participants, making sure ideas were comprehended and customers felt relaxed and confident.
+- Handled a wide range of client requests and needs, often devising solutions to problems on-the-spot and with limited resources, while ensuring safety, organization, and the well-being of individuals.
 
-- Proactively addressed daily workflow issues by designing, implementing and conveying new procedures to team members, leading to improved organization, efficiency and overall team satisfaction.
+- Led “Discover Scuba” programs, routinely simplifying and explaining complex concepts for novice participants, making sure ideas were comprehended and customers felt relaxed and confident. Collaborated with a team of instructors to teach courses from beginner to professional levels.
 
-**Me Salva! – Content Manager**
+**Me Salva! &mdash; Content Manager**
 
-Porto Alegre, Brazil – Aug 2015 - Oct 2016
+Porto Alegre, Brazil &mdash; Aug 2015 - Oct 2016
 
 - Managed a team of 20+ freelance content creators, handling aspects from hiring and training to supervision and payroll, guaranteeing streamlined operations.
 
@@ -60,6 +45,22 @@ Porto Alegre, Brazil – Aug 2015 - Oct 2016
 
 - Reviewed and refined over 500 video lessons through creator feedback, elevating educational content quality and alignment with learning objectives.
   
+Education
+======
+**Coursera**
+
+*Python for Everybody Specialization Certificate - University of Michigan* &mdash; Apr 2025
+
+*Google Data Analytics Professional Certificate* &mdash; Mar 2024
+
+**Frankfurt University of Applied Sciences**
+
+*Exchange Program in Telecommunications Engineering* &mdash; Frankfurt, Germany &mdash; Aug 2013 - Jul 2014
+
+**Universidade Federal do Rio Grande do Sul**
+
+*BSc in Electrical Engineering* &mdash; Porto Alegre, Brazil &mdash; Mar 2010 - Sep 2016
+
 Languages
 ======
 Portuguese (Native), English (C2), Spanish (B2).
