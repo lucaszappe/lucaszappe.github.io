@@ -7,18 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-### Entry-level data analyst with a background in electrical engineering, transitioning from a career as a diving instructor.
+### Entry-level data professional with a background in electrical engineering.
 
 <br>
 
-Hi, I’m Lucas. I’m a data analyst with a bit of an unusual background.
+Hi, I’m Lucas. I work with data to help people make better, more informed decisions.
 
-After spending seven years as a diving instructor, I decided to transition into a new field and dive into data science. Recently, I earned the Google Data Analytics Professional Certificate, gaining foundational skills in data analysis that I have been working to improve. Besides honing my skills, I’ve been building my portfolio while searching for my first role in data science.
+I’m currently contributing to a national-scale project in Brazil, in partnership with Petrobras’ research center, where I help build Excel-based tools using VBA to support decision-making and streamline internal operations. It’s hands-on, problem-driven work that blends technical skill with a focus on clarity and usability.
 
-My curiosity and interest in technology have always been a big part of who I am. Originally, I graduated college with a degree in electrical engineering, but life’s currents guided me down a different path to diving. Recently, though, I felt a pull back towards tech, leading me to data science. 
+My path into data wasn’t traditional. I originally graduated in electrical engineering and later spent several years working in dynamic, people-oriented environments around the world. Over time, I realized I wanted to reconnect with my technical side, and I found that working with data brought together my interest in technology, curiosity, and problem-solving mindset.
 
-To me, this is not as big of a leap as it might seem. Even as a diving instructor, I found myself drawn to questions that were related to data science. For instance, I’ve always wished I could predict dive site conditions based on current weather information. Similarly, I really enjoyed studying decompression theory and how scientists have modeled and experimented with gas transport in our bodies &mdash; a real concern in diving.
+Along the way, I’ve developed personal projects using tools like SQL, Excel, Python, R, and Tableau — you can explore some of these in my [portfolio](https://lucaszappe.github.io/portfolio/). I also have experience working with AI tools and applying them in practical contexts to solve real problems.
 
-I'm really excited to see where this new direction takes me and to start contributing to the field of data science.
+I’m excited about where this path is heading and always looking to contribute to projects that are thoughtful, data-driven, and impactful.
 
-From the ocean to data science, my journey's been unique. If you're curious about the underwater world, check out my [Instagram](https://www.instagram.com/diving.lucas/). To connect with me, feel free to reach out via [email](mailto:data.zappe@gmail.com) or [LinkedIn](https://www.linkedin.com/in/lucaszappe).
+Feel free to reach out via [email](mailto:data.zappe@gmail.com) or [LinkedIn](https://www.linkedin.com/in/lucaszappe), or just take a look at what I’ve been building.
+
+Thanks for stopping by!
